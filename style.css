@@ -129,7 +129,7 @@ body {
   height: 30px;
 }
 
-#js-hajimari-btn {
+.top-head > button {
   width: 150px;
   height: 50px;
   display: block;
